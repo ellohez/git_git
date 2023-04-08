@@ -2,7 +2,7 @@ package com.ellohez;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Main branch");
+        System.out.println("Dev branch");
         System.out.println("Hello world!");
     }
 }
